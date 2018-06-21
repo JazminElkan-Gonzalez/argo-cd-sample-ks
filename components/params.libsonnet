@@ -14,7 +14,7 @@
       servicePort: 80,
       type: "ClusterIP",
       command: null,
-      command4: null
+      command2: null
     },
   },
 }
